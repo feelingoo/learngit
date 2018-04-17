@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
 
-@SpringBootApplication
+@123
 @EnableScheduling
 public class Application {
 
